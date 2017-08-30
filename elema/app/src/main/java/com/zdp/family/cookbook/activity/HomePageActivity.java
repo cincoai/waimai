@@ -46,6 +46,8 @@ public class HomePageActivity extends Activity {
 		transaction.commit();
 		AseoZdpAseo.initTimer(this, 30);
 		maxMargin = displayMetrics.heightPixels / 10;
+        slidingPaneLayout = (SlidingPaneLayout) findViewById(R.id
+                .slidingpanellayout) ;
 		slidingPaneLayout.setPanelSlideListener(new PanelSlideListener() {
 			@Override
 			public void onPanelSlide(View panel, float slideOffset) {

@@ -11,7 +11,8 @@
         layout="@layout/common_above_title" />
 
     <include
-        android:layout_marginTop="48dp"
+        android:layout_width="48dp"
+        android:layout_height="48dp"
         layout="@layout/common_webview" >
     </include>
 

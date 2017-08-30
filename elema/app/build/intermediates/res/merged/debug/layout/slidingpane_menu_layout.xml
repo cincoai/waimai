@@ -36,7 +36,7 @@
                     android:layout_height="wrap_content"
                     android:layout_gravity="center"
                     android:layout_marginLeft="10dp"
-                    android:text="豆芽"
+                    android:text="圆圆"
                     android:textColor="@android:color/white"
                     android:textSize="23sp" />
 

@@ -130,7 +130,7 @@
         android:drawablePadding="9.0dip"
         android:gravity="center_vertical"
         android:paddingLeft="@dimen/content_padding"
-        android:text="客服电话: 4000-557117"
+        android:text="客服电话: 650-960-1234"
         android:textColor="@color/black"
         android:textSize="16.0sp" />
 
@@ -141,7 +141,7 @@
         android:layout_alignParentBottom="true"
         android:layout_centerHorizontal="true"
         android:gravity="center"
-        android:text="上海拉扎斯信息科技有限公司\n@2014Rajax Network Technology Co., Ltd"
+        android:text="美国五友智能信息科技有限公司\n@2017 CincoAI Network Technology Co., Ltd"
         android:soundEffectsEnabled="false"
         android:textColor="@color/gray_txt" />
 

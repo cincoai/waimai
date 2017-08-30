@@ -32,20 +32,26 @@
     </LinearLayout>
 
     <android.support.v4.widget.SlidingPaneLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
         android:id="@+id/slidingpanellayout"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:background="@android:color/transparent" >
 
+        <!-- Left side pane. (Master) -->
         <FrameLayout
             android:id="@+id/slidingpane_menu"
-            android:layout_width="250dp"
-            android:layout_height="match_parent" />
+            android:layout_width="200dp"
+            android:layout_height="match_parent"
+            android:layout_gravity="left"/>
 
+        <!-- Right side page. (Slave) -->
         <FrameLayout
             android:id="@+id/slidingpane_content"
-            android:layout_width="match_parent"
-            android:layout_height="match_parent" />
+            android:layout_width="350dp"
+            android:layout_height="match_parent"
+            android:layout_gravity="right"
+            android:layout_weight="1"/>
     </android.support.v4.widget.SlidingPaneLayout>
 
 </FrameLayout>

@@ -52,10 +52,6 @@
         "source": "/Users/GelinZHU/eleme/app/src/main/res/drawable/back_above_menushow_style.xml"
     },
     {
-        "merged": "/Users/GelinZHU/eleme/app/build/intermediates/res/merged/debug/drawable/activity_about.xml",
-        "source": "/Users/GelinZHU/eleme/app/src/main/res/drawable/activity_about.xml"
-    },
-    {
         "merged": "/Users/GelinZHU/eleme/app/build/intermediates/res/merged/debug/drawable/home_menu_order_list_icon.xml",
         "source": "/Users/GelinZHU/eleme/app/src/main/res/drawable/home_menu_order_list_icon.xml"
     },

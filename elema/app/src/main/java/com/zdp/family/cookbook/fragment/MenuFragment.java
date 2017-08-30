@@ -56,9 +56,9 @@ public class MenuFragment extends Fragment implements View.OnClickListener {
 	@SuppressWarnings("deprecation")
 	private void initRoundImage() {
 		Tools tools = new Tools();
-		iv_login.setBackgroundDrawable(new BitmapDrawable(tools.toRoundBitmap(getActivity(), "ali_head.jpg")));  
+		iv_login.setBackgroundDrawable(new BitmapDrawable(tools.toRoundBitmap(getActivity(), "gao_yuanyuan.jpg")));
 		iv_login.getBackground().setAlpha(0);
-		iv_login.setImageBitmap(tools.toRoundBitmap(getActivity(), "ali_head.jpg"));     
+		iv_login.setImageBitmap(tools.toRoundBitmap(getActivity(), "gao_yuanyuan.jpg"));
 	}
 
 	@SuppressLint("CommitTransaction")
