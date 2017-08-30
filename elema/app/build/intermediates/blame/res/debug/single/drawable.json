@@ -1,0 +1,178 @@
+[
+    {
+        "merged": "/Users/GelinZHU/eleme/app/build/intermediates/res/merged/debug/drawable/home_menu_home_icon.xml",
+        "source": "/Users/GelinZHU/eleme/app/src/main/res/drawable/home_menu_home_icon.xml"
+    },
+    {
+        "merged": "/Users/GelinZHU/eleme/app/build/intermediates/res/merged/debug/drawable/selector_weibo_red_button.xml",
+        "source": "/Users/GelinZHU/eleme/app/src/main/res/drawable/selector_weibo_red_button.xml"
+    },
+    {
+        "merged": "/Users/GelinZHU/eleme/app/build/intermediates/res/merged/debug/drawable/selector_green_corners_button.xml",
+        "source": "/Users/GelinZHU/eleme/app/src/main/res/drawable/selector_green_corners_button.xml"
+    },
+    {
+        "merged": "/Users/GelinZHU/eleme/app/build/intermediates/res/merged/debug/drawable/shape_red_radius_start_button.xml",
+        "source": "/Users/GelinZHU/eleme/app/src/main/res/drawable/shape_red_radius_start_button.xml"
+    },
+    {
+        "merged": "/Users/GelinZHU/eleme/app/build/intermediates/res/merged/debug/drawable/shape_blue_corners_button.xml",
+        "source": "/Users/GelinZHU/eleme/app/src/main/res/drawable/shape_blue_corners_button.xml"
+    },
+    {
+        "merged": "/Users/GelinZHU/eleme/app/build/intermediates/res/merged/debug/drawable/shape_renren_blue_button.xml",
+        "source": "/Users/GelinZHU/eleme/app/src/main/res/drawable/shape_renren_blue_button.xml"
+    },
+    {
+        "merged": "/Users/GelinZHU/eleme/app/build/intermediates/res/merged/debug/drawable/shape_grey_dark_corners_button.xml",
+        "source": "/Users/GelinZHU/eleme/app/src/main/res/drawable/shape_grey_dark_corners_button.xml"
+    },
+    {
+        "merged": "/Users/GelinZHU/eleme/app/build/intermediates/res/merged/debug/drawable/shape_weixin_green_button_pressed.xml",
+        "source": "/Users/GelinZHU/eleme/app/src/main/res/drawable/shape_weixin_green_button_pressed.xml"
+    },
+    {
+        "merged": "/Users/GelinZHU/eleme/app/build/intermediates/res/merged/debug/drawable/delete_selector.xml",
+        "source": "/Users/GelinZHU/eleme/app/src/main/res/drawable/delete_selector.xml"
+    },
+    {
+        "merged": "/Users/GelinZHU/eleme/app/build/intermediates/res/merged/debug/drawable/selector_grey_dark_corners_button.xml",
+        "source": "/Users/GelinZHU/eleme/app/src/main/res/drawable/selector_grey_dark_corners_button.xml"
+    },
+    {
+        "merged": "/Users/GelinZHU/eleme/app/build/intermediates/res/merged/debug/drawable/home_menu_gift_icon.xml",
+        "source": "/Users/GelinZHU/eleme/app/src/main/res/drawable/home_menu_gift_icon.xml"
+    },
+    {
+        "merged": "/Users/GelinZHU/eleme/app/build/intermediates/res/merged/debug/drawable/cart_food_size_background.xml",
+        "source": "/Users/GelinZHU/eleme/app/src/main/res/drawable/cart_food_size_background.xml"
+    },
+    {
+        "merged": "/Users/GelinZHU/eleme/app/build/intermediates/res/merged/debug/drawable/back_above_menushow_style.xml",
+        "source": "/Users/GelinZHU/eleme/app/src/main/res/drawable/back_above_menushow_style.xml"
+    },
+    {
+        "merged": "/Users/GelinZHU/eleme/app/build/intermediates/res/merged/debug/drawable/activity_about.xml",
+        "source": "/Users/GelinZHU/eleme/app/src/main/res/drawable/activity_about.xml"
+    },
+    {
+        "merged": "/Users/GelinZHU/eleme/app/build/intermediates/res/merged/debug/drawable/home_menu_order_list_icon.xml",
+        "source": "/Users/GelinZHU/eleme/app/src/main/res/drawable/home_menu_order_list_icon.xml"
+    },
+    {
+        "merged": "/Users/GelinZHU/eleme/app/build/intermediates/res/merged/debug/drawable/selector_text_field.xml",
+        "source": "/Users/GelinZHU/eleme/app/src/main/res/drawable/selector_text_field.xml"
+    },
+    {
+        "merged": "/Users/GelinZHU/eleme/app/build/intermediates/res/merged/debug/drawable/selector_blue_corners_button.xml",
+        "source": "/Users/GelinZHU/eleme/app/src/main/res/drawable/selector_blue_corners_button.xml"
+    },
+    {
+        "merged": "/Users/GelinZHU/eleme/app/build/intermediates/res/merged/debug/drawable/restaurant_header_selector.xml",
+        "source": "/Users/GelinZHU/eleme/app/src/main/res/drawable/restaurant_header_selector.xml"
+    },
+    {
+        "merged": "/Users/GelinZHU/eleme/app/build/intermediates/res/merged/debug/drawable/shape_weibo_red_button_pressed.xml",
+        "source": "/Users/GelinZHU/eleme/app/src/main/res/drawable/shape_weibo_red_button_pressed.xml"
+    },
+    {
+        "merged": "/Users/GelinZHU/eleme/app/build/intermediates/res/merged/debug/drawable/selector_food_list_item.xml",
+        "source": "/Users/GelinZHU/eleme/app/src/main/res/drawable/selector_food_list_item.xml"
+    },
+    {
+        "merged": "/Users/GelinZHU/eleme/app/build/intermediates/res/merged/debug/drawable/selector_red_corners_start_button.xml",
+        "source": "/Users/GelinZHU/eleme/app/src/main/res/drawable/selector_red_corners_start_button.xml"
+    },
+    {
+        "merged": "/Users/GelinZHU/eleme/app/build/intermediates/res/merged/debug/drawable/shape_weixin_green_button.xml",
+        "source": "/Users/GelinZHU/eleme/app/src/main/res/drawable/shape_weixin_green_button.xml"
+    },
+    {
+        "merged": "/Users/GelinZHU/eleme/app/build/intermediates/res/merged/debug/drawable/menu_shape_bg.xml",
+        "source": "/Users/GelinZHU/eleme/app/src/main/res/drawable/menu_shape_bg.xml"
+    },
+    {
+        "merged": "/Users/GelinZHU/eleme/app/build/intermediates/res/merged/debug/drawable/back_button_default_style.xml",
+        "source": "/Users/GelinZHU/eleme/app/src/main/res/drawable/back_button_default_style.xml"
+    },
+    {
+        "merged": "/Users/GelinZHU/eleme/app/build/intermediates/res/merged/debug/drawable/selector_restaurant_list_item.xml",
+        "source": "/Users/GelinZHU/eleme/app/src/main/res/drawable/selector_restaurant_list_item.xml"
+    },
+    {
+        "merged": "/Users/GelinZHU/eleme/app/build/intermediates/res/merged/debug/drawable/restaruant_list_item_pressed.xml",
+        "source": "/Users/GelinZHU/eleme/app/src/main/res/drawable/restaruant_list_item_pressed.xml"
+    },
+    {
+        "merged": "/Users/GelinZHU/eleme/app/build/intermediates/res/merged/debug/drawable/shape_blue_corners_button_pressed.xml",
+        "source": "/Users/GelinZHU/eleme/app/src/main/res/drawable/shape_blue_corners_button_pressed.xml"
+    },
+    {
+        "merged": "/Users/GelinZHU/eleme/app/build/intermediates/res/merged/debug/drawable/home_menu_invitation_icon.xml",
+        "source": "/Users/GelinZHU/eleme/app/src/main/res/drawable/home_menu_invitation_icon.xml"
+    },
+    {
+        "merged": "/Users/GelinZHU/eleme/app/build/intermediates/res/merged/debug/drawable/shape_weibo_red_button.xml",
+        "source": "/Users/GelinZHU/eleme/app/src/main/res/drawable/shape_weibo_red_button.xml"
+    },
+    {
+        "merged": "/Users/GelinZHU/eleme/app/build/intermediates/res/merged/debug/drawable/shape_green_corners_button_pressed.xml",
+        "source": "/Users/GelinZHU/eleme/app/src/main/res/drawable/shape_green_corners_button_pressed.xml"
+    },
+    {
+        "merged": "/Users/GelinZHU/eleme/app/build/intermediates/res/merged/debug/drawable/cart_food_item_bg.xml",
+        "source": "/Users/GelinZHU/eleme/app/src/main/res/drawable/cart_food_item_bg.xml"
+    },
+    {
+        "merged": "/Users/GelinZHU/eleme/app/build/intermediates/res/merged/debug/drawable/shape_grey_dark_corners_button_pressed.xml",
+        "source": "/Users/GelinZHU/eleme/app/src/main/res/drawable/shape_grey_dark_corners_button_pressed.xml"
+    },
+    {
+        "merged": "/Users/GelinZHU/eleme/app/build/intermediates/res/merged/debug/drawable/shape_green_corners_button.xml",
+        "source": "/Users/GelinZHU/eleme/app/src/main/res/drawable/shape_green_corners_button.xml"
+    },
+    {
+        "merged": "/Users/GelinZHU/eleme/app/build/intermediates/res/merged/debug/drawable/text_field_without_top_border.xml",
+        "source": "/Users/GelinZHU/eleme/app/src/main/res/drawable/text_field_without_top_border.xml"
+    },
+    {
+        "merged": "/Users/GelinZHU/eleme/app/build/intermediates/res/merged/debug/drawable/text_field_pressed.xml",
+        "source": "/Users/GelinZHU/eleme/app/src/main/res/drawable/text_field_pressed.xml"
+    },
+    {
+        "merged": "/Users/GelinZHU/eleme/app/build/intermediates/res/merged/debug/drawable/text_field.xml",
+        "source": "/Users/GelinZHU/eleme/app/src/main/res/drawable/text_field.xml"
+    },
+    {
+        "merged": "/Users/GelinZHU/eleme/app/build/intermediates/res/merged/debug/drawable/shape_renren_blue_button_pressed.xml",
+        "source": "/Users/GelinZHU/eleme/app/src/main/res/drawable/shape_renren_blue_button_pressed.xml"
+    },
+    {
+        "merged": "/Users/GelinZHU/eleme/app/build/intermediates/res/merged/debug/drawable/food_list_item_pressed.xml",
+        "source": "/Users/GelinZHU/eleme/app/src/main/res/drawable/food_list_item_pressed.xml"
+    },
+    {
+        "merged": "/Users/GelinZHU/eleme/app/build/intermediates/res/merged/debug/drawable/selector_weixin_green_button.xml",
+        "source": "/Users/GelinZHU/eleme/app/src/main/res/drawable/selector_weixin_green_button.xml"
+    },
+    {
+        "merged": "/Users/GelinZHU/eleme/app/build/intermediates/res/merged/debug/drawable/home_menu_aboutus_icon.xml",
+        "source": "/Users/GelinZHU/eleme/app/src/main/res/drawable/home_menu_aboutus_icon.xml"
+    },
+    {
+        "merged": "/Users/GelinZHU/eleme/app/build/intermediates/res/merged/debug/drawable/shape_red_radius_start_button_pressed.xml",
+        "source": "/Users/GelinZHU/eleme/app/src/main/res/drawable/shape_red_radius_start_button_pressed.xml"
+    },
+    {
+        "merged": "/Users/GelinZHU/eleme/app/build/intermediates/res/merged/debug/drawable/selector_renren_blue_button.xml",
+        "source": "/Users/GelinZHU/eleme/app/src/main/res/drawable/selector_renren_blue_button.xml"
+    },
+    {
+        "merged": "/Users/GelinZHU/eleme/app/build/intermediates/res/merged/debug/drawable/text_field_without_bottom_border.xml",
+        "source": "/Users/GelinZHU/eleme/app/src/main/res/drawable/text_field_without_bottom_border.xml"
+    },
+    {
+        "merged": "/Users/GelinZHU/eleme/app/build/intermediates/res/merged/debug/drawable/rating_bar_grey_bg.xml",
+        "source": "/Users/GelinZHU/eleme/app/src/main/res/drawable/rating_bar_grey_bg.xml"
+    }
+]

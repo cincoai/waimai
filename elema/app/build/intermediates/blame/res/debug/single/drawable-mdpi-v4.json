@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "/Users/GelinZHU/eleme/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/icon.png",
+        "source": "/Users/GelinZHU/eleme/app/src/main/res/drawable-mdpi/icon.png"
+    },
+    {
+        "merged": "/Users/GelinZHU/eleme/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/pic_jixiang.png",
+        "source": "/Users/GelinZHU/eleme/app/src/main/res/drawable-mdpi/pic_jixiang.png"
+    },
+    {
+        "merged": "/Users/GelinZHU/eleme/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/pic_jigongbao.jpeg",
+        "source": "/Users/GelinZHU/eleme/app/src/main/res/drawable-mdpi/pic_jigongbao.jpeg"
+    },
+    {
+        "merged": "/Users/GelinZHU/eleme/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/pic_tengqi.png",
+        "source": "/Users/GelinZHU/eleme/app/src/main/res/drawable-mdpi/pic_tengqi.png"
+    },
+    {
+        "merged": "/Users/GelinZHU/eleme/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/pic_shiguifan.jpeg",
+        "source": "/Users/GelinZHU/eleme/app/src/main/res/drawable-mdpi/pic_shiguifan.jpeg"
+    },
+    {
+        "merged": "/Users/GelinZHU/eleme/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/pic_xiaohongmao.jpeg",
+        "source": "/Users/GelinZHU/eleme/app/src/main/res/drawable-mdpi/pic_xiaohongmao.jpeg"
+    },
+    {
+        "merged": "/Users/GelinZHU/eleme/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/pic_milishi.png",
+        "source": "/Users/GelinZHU/eleme/app/src/main/res/drawable-mdpi/pic_milishi.png"
+    },
+    {
+        "merged": "/Users/GelinZHU/eleme/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/ic_launcher.png",
+        "source": "/Users/GelinZHU/eleme/app/src/main/res/drawable-mdpi/ic_launcher.png"
+    }
+]

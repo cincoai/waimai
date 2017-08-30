@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/GelinZHU/eleme/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/icon.png",
+        "source": "/Users/GelinZHU/eleme/app/src/main/res/drawable-hdpi/icon.png"
+    },
+    {
+        "merged": "/Users/GelinZHU/eleme/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_launcher.png",
+        "source": "/Users/GelinZHU/eleme/app/src/main/res/drawable-hdpi/ic_launcher.png"
+    }
+]

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/GelinZHU/eleme/app/libs/universal-image-loader-1.8.6-with-sources.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9ad605dd55be2e74e614b2ab2ff466439c4461b7">
+        <dex dex="/Users/GelinZHU/eleme/app/build/intermediates/pre-dexed/debug/universal-image-loader-1.8.6-with-sources_d6be0cf8c7ace99f34895547d3931f7aebbf9af3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/GelinZHU/Library/Android/sdk/extras/android/m2repository/com/android/support/support-v4/19.1.0/support-v4-19.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="/Users/GelinZHU/eleme/app/build/intermediates/pre-dexed/debug/support-v4-19.1.0_d65414e0010f7838ad20c2d9e6c0e2d1de7d0fbf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/GelinZHU/eleme/app/libs/library.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="caacca544070392a6e141b47342aec1602af026d">
+        <dex dex="/Users/GelinZHU/eleme/app/build/intermediates/pre-dexed/debug/library_1704a1198bab41b8d3925b35cbab6eaa1ae5c83b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/GelinZHU/eleme/app/libs/support.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="23670db5f1d039dca7bf2fe7feca8791752f9ee5">
+        <dex dex="/Users/GelinZHU/eleme/app/build/intermediates/pre-dexed/debug/support_5f7e46192996de64ef73b62978b63f124c9318de.jar" />
+    </item>
+
+</items>

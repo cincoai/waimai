@@ -1,0 +1,78 @@
+[
+    {
+        "merged": "/Users/GelinZHU/eleme/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/m_drawer_icon_list_selected.png",
+        "source": "/Users/GelinZHU/eleme/app/src/main/res/drawable-xhdpi/m_drawer_icon_list_selected.png"
+    },
+    {
+        "merged": "/Users/GelinZHU/eleme/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/weibo_iner_icon.png",
+        "source": "/Users/GelinZHU/eleme/app/src/main/res/drawable-xhdpi/weibo_iner_icon.png"
+    },
+    {
+        "merged": "/Users/GelinZHU/eleme/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/back_title.png",
+        "source": "/Users/GelinZHU/eleme/app/src/main/res/drawable-xhdpi/back_title.png"
+    },
+    {
+        "merged": "/Users/GelinZHU/eleme/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/menu_icon_gift.png",
+        "source": "/Users/GelinZHU/eleme/app/src/main/res/drawable-xhdpi/menu_icon_gift.png"
+    },
+    {
+        "merged": "/Users/GelinZHU/eleme/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/menu_icon_invitation.png",
+        "source": "/Users/GelinZHU/eleme/app/src/main/res/drawable-xhdpi/menu_icon_invitation.png"
+    },
+    {
+        "merged": "/Users/GelinZHU/eleme/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/m_drawer_icon_about_selected.png",
+        "source": "/Users/GelinZHU/eleme/app/src/main/res/drawable-xhdpi/m_drawer_icon_about_selected.png"
+    },
+    {
+        "merged": "/Users/GelinZHU/eleme/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/m_drawer_icon_invitation_selected.png",
+        "source": "/Users/GelinZHU/eleme/app/src/main/res/drawable-xhdpi/m_drawer_icon_invitation_selected.png"
+    },
+    {
+        "merged": "/Users/GelinZHU/eleme/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/button_above_more.png",
+        "source": "/Users/GelinZHU/eleme/app/src/main/res/drawable-xhdpi/button_above_more.png"
+    },
+    {
+        "merged": "/Users/GelinZHU/eleme/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/welcome.png",
+        "source": "/Users/GelinZHU/eleme/app/src/main/res/drawable-xhdpi/welcome.png"
+    },
+    {
+        "merged": "/Users/GelinZHU/eleme/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/menu_icon_order_list.png",
+        "source": "/Users/GelinZHU/eleme/app/src/main/res/drawable-xhdpi/menu_icon_order_list.png"
+    },
+    {
+        "merged": "/Users/GelinZHU/eleme/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/m_drawer_icon_gift_selected.png",
+        "source": "/Users/GelinZHU/eleme/app/src/main/res/drawable-xhdpi/m_drawer_icon_gift_selected.png"
+    },
+    {
+        "merged": "/Users/GelinZHU/eleme/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/menu_icon_home.png",
+        "source": "/Users/GelinZHU/eleme/app/src/main/res/drawable-xhdpi/menu_icon_home.png"
+    },
+    {
+        "merged": "/Users/GelinZHU/eleme/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/m_drawer_icon_home_selected.png",
+        "source": "/Users/GelinZHU/eleme/app/src/main/res/drawable-xhdpi/m_drawer_icon_home_selected.png"
+    },
+    {
+        "merged": "/Users/GelinZHU/eleme/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/menu_title_bg.png",
+        "source": "/Users/GelinZHU/eleme/app/src/main/res/drawable-xhdpi/menu_title_bg.png"
+    },
+    {
+        "merged": "/Users/GelinZHU/eleme/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/button_title_more.png",
+        "source": "/Users/GelinZHU/eleme/app/src/main/res/drawable-xhdpi/button_title_more.png"
+    },
+    {
+        "merged": "/Users/GelinZHU/eleme/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ic_launcher.png",
+        "source": "/Users/GelinZHU/eleme/app/src/main/res/drawable-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/GelinZHU/eleme/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/menu_icon_about.png",
+        "source": "/Users/GelinZHU/eleme/app/src/main/res/drawable-xhdpi/menu_icon_about.png"
+    },
+    {
+        "merged": "/Users/GelinZHU/eleme/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/drawer_icon_camera.png",
+        "source": "/Users/GelinZHU/eleme/app/src/main/res/drawable-xhdpi/drawer_icon_camera.png"
+    },
+    {
+        "merged": "/Users/GelinZHU/eleme/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/icon.png",
+        "source": "/Users/GelinZHU/eleme/app/src/main/res/drawable-xhdpi/icon.png"
+    }
+]
