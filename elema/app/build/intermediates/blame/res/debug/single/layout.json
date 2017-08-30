@@ -8,12 +8,12 @@
         "source": "/Users/GelinZHU/eleme/app/src/main/res/layout/slidingpane_invitation_layout.xml"
     },
     {
-        "merged": "/Users/GelinZHU/eleme/app/build/intermediates/res/merged/debug/layout/slidingpane_gifts_layout.xml",
-        "source": "/Users/GelinZHU/eleme/app/src/main/res/layout/slidingpane_gifts_layout.xml"
-    },
-    {
         "merged": "/Users/GelinZHU/eleme/app/build/intermediates/res/merged/debug/layout/common_webview.xml",
         "source": "/Users/GelinZHU/eleme/app/src/main/res/layout/common_webview.xml"
+    },
+    {
+        "merged": "/Users/GelinZHU/eleme/app/build/intermediates/res/merged/debug/layout/slidingpane_gifts_layout.xml",
+        "source": "/Users/GelinZHU/eleme/app/src/main/res/layout/slidingpane_gifts_layout.xml"
     },
     {
         "merged": "/Users/GelinZHU/eleme/app/build/intermediates/res/merged/debug/layout/activity_about.xml",

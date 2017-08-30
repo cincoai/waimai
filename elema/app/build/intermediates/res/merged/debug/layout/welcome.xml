@@ -23,7 +23,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginTop="13dp"
-        android:text="微信群 多人订餐"
+        android:text="帮助您在您喜爱的餐厅线上点餐"
         android:textColor="@color/white"
         android:textSize="14.0sp" />
 

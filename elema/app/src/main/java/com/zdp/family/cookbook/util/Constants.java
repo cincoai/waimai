@@ -9,7 +9,7 @@ public class Constants {
 	 */
 
 	// 应用名称
-	public static String APP_NAME = "";
+	public static String APP_NAME = "我中意的餐厅";
 
 	// 保存参数文件夹名
 	public static final String SHARED_PREFERENCE_NAME = "ele_prefs";

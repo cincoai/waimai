@@ -155,7 +155,7 @@ public class RestaurantDetailAdapter extends BaseAdapter implements
 				}
 			}
 		});
-		holder.add.setText("锟�?"+position);
+		holder.add.setText("$"+position);
 		holder.name.setText(mFoods[position].split("-")[1]);
 		
 
@@ -166,7 +166,7 @@ public class RestaurantDetailAdapter extends BaseAdapter implements
 		Tools tools = new Tools();
 	    View drawableViewPar = LayoutInflater.from(mActivity).inflate(R.layout.food_list_item_operation, null);
 	    TextView text = (TextView) drawableViewPar.findViewById(R.id.food_list_item_price_text_view);
-	    text.setText("锟�?"+position);
+	    text.setText("$"+position);
 	    return tools.convertViewToBitmap(text);
 	}
 
@@ -249,7 +249,7 @@ public class RestaurantDetailAdapter extends BaseAdapter implements
 			@Override
 			public void onAnimationEnd(Animation animation) {
 				v.setVisibility(View.GONE);
-				buyNum++;// 璁╄喘涔版暟閲忓姞1
+				buyNum++;
 				// buyNumView.setText(buyNum + "");//
 				// buyNumView.setBadgePosition(BadgeView.POSITION_TOP_RIGHT);
 				// buyNumView.show();
